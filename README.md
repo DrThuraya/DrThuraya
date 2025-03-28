@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DrThuraya
-- 👀 I’m interested in Software Engineering, Data management and Artificial Intelligence.
+- 👀 I’m interested in Cloud Computing, Cybersecurity and Artificial Intelligence.
 - 📫 To reach me, contact me via my email: contact@drthuraya.com
 
 <!---
